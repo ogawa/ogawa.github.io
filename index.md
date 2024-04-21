@@ -7,3 +7,19 @@
 #
 layout: home
 ---
+![caption]({{site.baseurl}}/assets/images/portrait-1.jpg)
+
+Procuder, AIST Solutions Co.  
+株式会社AIST Solutions 事業プロデューサ
+
+## Contact
+
+OGAWA Hirotaka, Ph.D.  
+AIST Solutions Co.  
+Hibiya Park Front 19F, 2-1-6 Uchisaiwaicho, Chiyoda-ku, Tokyo 100-0011
+
+## 連絡先
+
+〒100-0011 東京都千代田区内幸町2-1-6 日比谷パークフロント19F  
+株式会社AIST Solutions  
+小川 宏高
