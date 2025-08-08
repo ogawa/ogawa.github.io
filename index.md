@@ -9,9 +9,9 @@ layout: home
 ---
 ![portrait of OGAWA Hirotaka]({{site.baseurl}}/assets/images/portrait-1.jpg)
 
-Producer, AIST Solutions Co.
+ABCI Business Group Leader, AIST Solutions Co.
 
-株式会社AIST Solutions 事業プロデューサ
+株式会社AIST Solutions ABCI事業グループ長
 
 ## Contact
 
